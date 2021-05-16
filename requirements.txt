@@ -1,0 +1,4 @@
+azure-cli
+azure-storage-blob
+azure-mgmt-storage
+azure-identity
